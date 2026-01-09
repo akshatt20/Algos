@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshatt20/Algos/tree/master/0001-two-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akshatt20/Algos/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2402-meeting-rooms-iii](https://github.com/akshatt20/Algos/tree/master/2402-meeting-rooms-iii) |
 ## Sorting
 |  |
@@ -33,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akshatt20/Algos/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akshatt20/Algos/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akshatt20/Algos/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akshatt20/Algos/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akshatt20/Algos/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akshatt20/Algos/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union Find
@@ -55,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akshatt20/Algos/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akshatt20/Algos/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akshatt20/Algos/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akshatt20/Algos/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
