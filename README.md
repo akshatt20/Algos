@@ -68,10 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akshatt20/Algos/tree/master/0005-longest-palindromic-substring) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/akshatt20/Algos/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/akshatt20/Algos/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akshatt20/Algos/tree/master/0005-longest-palindromic-substring) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/akshatt20/Algos/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/akshatt20/Algos/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
