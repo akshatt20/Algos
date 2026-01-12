@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshatt20/Algos/tree/master/0001-two-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/akshatt20/Algos/tree/master/0084-largest-rectangle-in-histogram) |
 | [1390-four-divisors](https://github.com/akshatt20/Algos/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/akshatt20/Algos/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akshatt20/Algos/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshatt20/Algos/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/akshatt20/Algos/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/akshatt20/Algos/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
