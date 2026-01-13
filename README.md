@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akshatt20/Algos/tree/master/0002-add-two-numbers) |
 | [1390-four-divisors](https://github.com/akshatt20/Algos/tree/master/1390-four-divisors) |
 ## Tree
 |  |
@@ -94,5 +95,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akshatt20/Algos/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/akshatt20/Algos/tree/master/0142-linked-list-cycle-ii) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/akshatt20/Algos/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
