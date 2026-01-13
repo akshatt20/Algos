@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshatt20/Algos/tree/master/0001-two-sum) |
+| [0142-linked-list-cycle-ii](https://github.com/akshatt20/Algos/tree/master/0142-linked-list-cycle-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akshatt20/Algos/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2402-meeting-rooms-iii](https://github.com/akshatt20/Algos/tree/master/2402-meeting-rooms-iii) |
 ## Sorting
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshatt20/Algos/tree/master/0005-longest-palindromic-substring) |
+| [0142-linked-list-cycle-ii](https://github.com/akshatt20/Algos/tree/master/0142-linked-list-cycle-ii) |
 ## Stack
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/akshatt20/Algos/tree/master/0084-largest-rectangle-in-histogram) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/akshatt20/Algos/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
