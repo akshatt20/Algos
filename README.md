@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/akshatt20/Algos/tree/master/0148-sort-list) |
 | [2402-meeting-rooms-iii](https://github.com/akshatt20/Algos/tree/master/2402-meeting-rooms-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshatt20/Algos/tree/master/0005-longest-palindromic-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/akshatt20/Algos/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/akshatt20/Algos/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
@@ -97,8 +99,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshatt20/Algos/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/akshatt20/Algos/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/akshatt20/Algos/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshatt20/Algos/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/akshatt20/Algos/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/akshatt20/Algos/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
