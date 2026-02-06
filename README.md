@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/akshatt20/Algos/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2402-meeting-rooms-iii](https://github.com/akshatt20/Algos/tree/master/2402-meeting-rooms-iii) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/akshatt20/Algos/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/akshatt20/Algos/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/akshatt20/Algos/tree/master/3640-trionic-array-ii) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/akshatt20/Algos/tree/master/0148-sort-list) |
 | [2402-meeting-rooms-iii](https://github.com/akshatt20/Algos/tree/master/2402-meeting-rooms-iii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/akshatt20/Algos/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/akshatt20/Algos/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/akshatt20/Algos/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
