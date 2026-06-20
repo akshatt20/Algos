@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/akshatt20/Algos/tree/master/0084-largest-rectangle-in-histogram) |
 | [1390-four-divisors](https://github.com/akshatt20/Algos/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/akshatt20/Algos/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1840-maximum-building-height](https://github.com/akshatt20/Algos/tree/master/1840-maximum-building-height) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akshatt20/Algos/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2402-meeting-rooms-iii](https://github.com/akshatt20/Algos/tree/master/2402-meeting-rooms-iii) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/akshatt20/Algos/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/akshatt20/Algos/tree/master/0148-sort-list) |
+| [1840-maximum-building-height](https://github.com/akshatt20/Algos/tree/master/1840-maximum-building-height) |
 | [2402-meeting-rooms-iii](https://github.com/akshatt20/Algos/tree/master/2402-meeting-rooms-iii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/akshatt20/Algos/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshatt20/Algos/tree/master/0002-add-two-numbers) |
 | [1390-four-divisors](https://github.com/akshatt20/Algos/tree/master/1390-four-divisors) |
+| [1840-maximum-building-height](https://github.com/akshatt20/Algos/tree/master/1840-maximum-building-height) |
 ## Tree
 |  |
 | ------- |
